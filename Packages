@@ -1,26 +1,26 @@
 Package: com.paxcex.JooxPremium
-Version: 0.1
+Version: 2.0.2
 Architecture: iphoneos-arm
 Maintainer: RomarioRepo <romariorobby@yahoo.com>
 Filename: deb/Joox.deb
-Size: 261272
+Size: 6490
 MD5sum: c1612805a7542ad2228e3ec988982ce3
 SHA1: a9910db0e79d751d7a3a93c6593eebe930a37698
 SHA256: c41fb8e71cb6c85473cb2f16e4aaa5ec12c0422480d138438efeff202d5e8d55
 Section: Tweaks
-Description: Hack for joox.app
+Description: Hack for Joox Music, LIFETIME
 Author: pxcex <romariorobby@yahoo.com>
-Name: JooxVIP
+Name: Joox Premium
 
 Package: com.laxus.MimoModded
 Version: 3.0.3
 Architecture: iphoneos-arm
 Maintainer: RomarioRepo <romariorobby@yahoo.com>
 Filename: deb/com.laxus.mimomodded_3.0.3_iphoneos-arm.deb
-Size: 261272
-MD5sum: c1612805a7542ad2228e3ec988982ce3
-SHA1: a9910db0e79d751d7a3a93c6593eebe930a37698
-SHA256: c41fb8e71cb6c85473cb2f16e4aaa5ec12c0422480d138438efeff202d5e8d55
+Size: 1831896
+MD5sum: 0a01a23123f9dc21563042acdbf86595
+SHA1: 34804deeba380aa656762b323553aa4e07dc2234
+SHA256: d316a3ab649d37a7ff9dfe6e14bff3aa3dc13a1bc4dbfae173d2f8a5cd53b34d
 Section: Tweaks
 Description: Mimo Moddedd Auto Updater 
 Author:  Laxus <romariorobby@yahoo.com>
