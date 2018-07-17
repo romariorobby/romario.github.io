@@ -1,4 +1,4 @@
-Package: com.romario.JooxPremium
+Package: com.paxcex.JooxPremium
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: RomarioRepo <romariorobby@yahoo.com>
@@ -9,5 +9,19 @@ SHA1: a9910db0e79d751d7a3a93c6593eebe930a37698
 SHA256: c41fb8e71cb6c85473cb2f16e4aaa5ec12c0422480d138438efeff202d5e8d55
 Section: Tweaks
 Description: Hack for joox.app
-Author: Romario <romariorobby@yahoo.com>
+Author: pxcex <romariorobby@yahoo.com>
+Name: JooxVIP
+
+Package: com.laxus.MimoModded
+Version: 3.0.3
+Architecture: iphoneos-arm
+Maintainer: RomarioRepo <romariorobby@yahoo.com>
+Filename: /com.laxus.mimomodded_3.0.3_iphoneos-arm
+Size: 261272
+MD5sum: c1612805a7542ad2228e3ec988982ce3
+SHA1: a9910db0e79d751d7a3a93c6593eebe930a37698
+SHA256: c41fb8e71cb6c85473cb2f16e4aaa5ec12c0422480d138438efeff202d5e8d55
+Section: Tweaks
+Description: Mimo Moddedd Auto Updater 
+Author:  <romariorobby@yahoo.com>
 Name: JooxVIP
