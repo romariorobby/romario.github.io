@@ -2,7 +2,7 @@ Package: com.paxcex.JOOXPremium
 Version: 2.0.2
 Architecture: iphoneos-arm
 Maintainer: Romario <romariorobby@yahoo.com>
-Filename: deb//Joox.deb
+Filename: deb/Joox.deb
 Size: 6490
 MD5sum: c1612805a7542ad2228e3ec988982ce3
 SHA1: a9910db0e79d751d7a3a93c6593eebe930a37698
@@ -17,7 +17,7 @@ Package: com.laxus.MimoModded
 Version: 3.0.3
 Architecture: iphoneos-arm
 Maintainer: Romario <romariorobby@yahoo.com>
-Filename: deb//com.laxus.mimomodded_3.0.3_iphoneos-arm.deb
+Filename: deb/com.laxus.mimomodded_3.0.3_iphoneos-arm.deb
 Size: 1831896
 MD5sum: 0a01a23123f9dc21563042acdbf86595
 SHA1: 34804deeba380aa656762b323553aa4e07dc2234
@@ -32,7 +32,7 @@ Package: com.Laxus.MobileLegendAutoUpdate
 Version: 0.6.1
 Architecture: iphoneos-arm
 Maintainer: Romario <romariorobby@yahoo.com>
-Filename: deb//iOSGods.com.PUBGMOBILEFREE_0.6.1_iphoneos-arm.deb
+Filename: deb/iOSGods.com.PUBGMOBILEFREE_0.6.1_iphoneos-arm.deb
 Size: 1837218
 MD5sum: 35c31921ca4b99f156c6d530e0897785
 SHA1: b11237d75916b643056cd952d9f045bc5017d59f
